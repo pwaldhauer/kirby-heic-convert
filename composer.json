@@ -1,0 +1,20 @@
+{
+  "name": "pwaldhauer/kirby-heic-convert",
+  "description": "HEIC support for kirby",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Philipp Waldhauer",
+      "email": "hi@pwa.io"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.1",
+  },
+  "extra": {
+    "installer-name": "heic-convert"
+  },
+  "minimum-stability": "beta"
+}
+
